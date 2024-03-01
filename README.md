@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehebul Sarkar</h1>
 <h3 align="center">Driven by passion, fueled by code, committed to excellence.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tridibkumarroy&label=Profile%20views&color=0e75b6&style=flat" alt="tridibkumarroy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mehebul&label=Profile%20views&color=0e75b6&style=flat" alt="mehebulsarkar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tridibkumarroy" alt="tridibkumarroy" /></a> </p>
 
