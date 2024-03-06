@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mehebulsarkar@gmail.com**
 
-- ⚡ Fun fact **Always There To Bring Smile In YOur**
+- ⚡ Fun fact **Always There To Bring Smile In Your Face !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
